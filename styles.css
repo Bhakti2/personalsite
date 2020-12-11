@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f1f6f9;
+}
+h1{
+    font-size:63px;
+    width: 20%;
+    margin: 50px auto 50px auto;
+    font-family: 'Pacifico', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    font-size: 39px;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+    padding-top: 18px;
+}
+
+a{
+    color:#11999E;
+    margin: 20px auto;
+}
+
+.sub-heading{
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile-desc{
+    width: 30%;
+    margin: 57px auto;
+}
+
+.profile-heading{
+    margin-top: 55px;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted none none none;
+    border-width: 8px;
+    border-color: #c5c5c5;
+    margin: 88px auto;
+}
+
+.top-container{
+    position: relative;
+    margin: 0;
+    background-color: #f1f6f9;
+   
+}
+
+.mountain-img{
+    height: 597px;
+    width: 760px;
+}
+
+.top-cloud{
+    position: relative;
+    left: 365px;
+    top: 84px;
+}
+
+
+
+.bottom-cloud{
+    
+    position: absolute;
+    left: 297px;
+    bottom: 402px;
+}
+
+.bhakti{
+    height: 257px;
+    width: 214px;
+    border-radius: 50%;
+    
+}
+
+.fightingBug{
+    width: 25%;
+    float: right;
+
+
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.bottom-container{
+    height: 57px;
+   margin-bottom: 0;
+    background-color: #66BFBF;
+    padding: 96px;
+    
+}
+
+.footer-link{
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.contact {
+    padding-bottom: 70px;
+}
+
+.footer-para{
+    margin-top: 105px;
+    color: white;
+}
+
+.contact-para{
+    margin:60px auto;
+    width: 40%;
+}
+
+.btn {
+    background-color: rgb(0, 132, 255);
+    color: wheat;
+    margin-bottom: 20px;
+    text-decoration: none;
+    padding: 10px ;
+    border-radius: 8px;
+    border: none;
+}
+
+
+
